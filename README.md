@@ -1,0 +1,1 @@
+This project will mimic the google homepage. This was done to practice skills in CSS such as positioning elements and applying other newly-learned properties and attributes. This is one of my projects in TOP (The Odin Project).
