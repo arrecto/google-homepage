@@ -80,10 +80,20 @@ input:focus{
         color:rgba(151, 150, 150, 0.856);
         display: flex;
         justify-content: space-between;
+        align-items: flex-end;
         border-top: 1px solid rgb(190, 190, 190);
         padding: 10px 5px 5px 10px;
+   
+    }
+    #nav-footer {
+        bottom: 0;
+        position: fixed;
+        width: 100%;
     }
     #country {
         font-size: 15px;
         margin-left: 1em;
     }
+.ph-dialect-link {
+    text-decoration: none;
+}
